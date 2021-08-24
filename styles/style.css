@@ -75,7 +75,6 @@
 }
 
 .description {
-  min-height: 350px;
   position: relative;
   margin-top: 100px;
 }
@@ -235,13 +234,13 @@
   padding: 90px 0;
 }
 
-.kaufman__title_theme_dark {
+.section-title_theme_dark {
   color: white;
   margin: 0 auto 20px;
   z-index: 4;
 }
 
-.kaufman__subtitle_theme_dark {
+.section-subtitle_theme_dark {
   color: white;
   margin: 0 auto;
   z-index: 3;
