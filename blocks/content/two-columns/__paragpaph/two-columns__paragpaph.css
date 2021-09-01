@@ -1,0 +1,8 @@
+.two-columns__paragpaph {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.two-columns__paragpaph:first-of-type {
+  margin-top: 0;
+}
