@@ -6,6 +6,8 @@
 
 Цель проекта - реализация студентом навыков, приобретенных на курсе.
 
+Сайт размещен на GitHub Pages: https://nastiashh.github.io/how-to-learn/
+
 ## Стек:
 - HTML;
 - CSS.
